@@ -1,1 +1,15 @@
 ### Introduction to DevOps
+
+What is DevOps?
+1.1 DevOps in Simple Words
+
+Imagine a software project like making a cake:
+
+Developers = chefs (write the recipe)
+Operations = waiters/kitchen staff (bake, serve, maintain the kitchen)
+
+In the old way (traditional IT), developers wrote the recipe and threw it over the wall to operations. If something went wrong, it took a long time to fix.
+
+DevOps = developers and operations working together all the time, using tools to automate and speed up everything.
+
+✅ Goal: Make software faster, more reliable, and easier to update.
