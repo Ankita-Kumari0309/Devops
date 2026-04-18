@@ -32,6 +32,8 @@ The goal: **deliver software faster, more reliably, and at high quality**.
 3. **Continuous Integration (CI)** – Auto-build & test every code change  
 4. **Continuous Delivery/Deployment (CD)** – Auto-deploy tested code to staging/production  
 5. **Monitoring & Feedback** – Detect and fix issues early
+6. **Improve Delivery**
+7. **Testing** 
 
 ---
 
@@ -114,3 +116,11 @@ flowchart LR
     E --> F[Deploy]
     F --> G[Monitor]
     G --> A
+
+
+## History Behind DevOps
+1. Developers write code
+2. Code stored in central repository
+3. Build/Release Engineers deploy application
+4. Testers test the application
+⚙️ Operations manage servers
